@@ -1,0 +1,7 @@
+pypdf2==2.0.0
+camelot-py==0.10.1
+ghostscript==0.7
+transformers
+flask-cors
+flask
+pyngrok
